@@ -10,10 +10,10 @@ Following graduation, I continued as a postdoc in the same group to further expl
 My work lies at the intersection of genomics and computational biology, with a long-term goal of deciphering the grammar of the genome.
 
 
-## Research Interests
+## Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **3D genome:** C-family methods, 
+- **Computational biology:** deep learning, LLM
 
 <!--
 ## News
