@@ -26,4 +26,6 @@ My work lies at the intersection of genomics and computational biology, with a l
 
 {% include_relative _includes/publications.md %}
 
+<!--
 {% include_relative _includes/services.md %}
+-->
