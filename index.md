@@ -13,7 +13,7 @@ My work lies at the intersection of genomics and computational biology, with a l
 ## Interests
 
 - **3D genome:** C-family methods, 
-- **Computational biology:** deep learning, LLM
+- **Computational technology:** deep learning, LLM
 
 <!--
 ## News
