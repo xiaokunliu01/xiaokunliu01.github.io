@@ -11,7 +11,7 @@ main:
 #    notes: Early Accept
 
   - title: "Footprint-C reveals transcription factor modes in local clusters and long-range chromatin interactions"
-    authors: <strong>Xiaokun Liu</strong>#, Hanhan Wei#, Qifan Zhang, Na Zhang, Qingqing Wu & Chenhuan Xu* (#Co-first authors *Corresponding authors)
+    authors: <strong>Xiaokun Liu</strong>#, Hanhan Wei#, Qifan Zhang, Na Zhang, Qingqing Wu & Chenhuan Xu* (#Co-first authors *Corresponding author)
     #conference_short : CVPR
     Journal: Nature Communications 
     pdf: https://www.nature.com/articles/s41467-024-55403-7.pdf
