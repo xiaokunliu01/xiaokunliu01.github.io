@@ -1,13 +1,14 @@
 main:
 
   - title: Architectural transcription factors collectively shape nuclear radial positioning of chromatin contacts
-#    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+#    authors: Juan Bai#, Hanhan Wei#, Siling Hu#, Yi Guo, Qifan Zhang, <strong>Xiaokun Liu</strong> & Chenhuan Xue* (#Co-first authors *Corresponding authors)
+
 #    conference_short: MICCAI
 #    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-#    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: https://www.science.org/doi/reader/10.1126/sciadv.adw8040
 #    code: https://github.com/MrGiovanni/ContinualLearning
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
-#    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/Radial-C.png
 #    notes: Early Accept
 
   - title: "Footprint-C reveals transcription factor modes in local clusters and long-range chromatin interactions"
