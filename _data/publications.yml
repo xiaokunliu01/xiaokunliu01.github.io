@@ -16,7 +16,7 @@ main:
     Journal: Nature Communications 
     pdf: https://www.nature.com/articles/s41467-024-55403-7.pdf
     code: https://github.com/xiaokunliu01/Footprint-C
-    page: https://www.nature.com/articles/s41467-024-55403-7
+    #page: https://www.nature.com/articles/s41467-024-55403-7
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     #notes: Oral Presentation
     image: ./assets/img/Footprint-C.png
