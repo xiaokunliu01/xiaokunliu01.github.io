@@ -6,6 +6,7 @@ main:
 #    conference_short: MICCAI
 #    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://www.science.org/doi/reader/10.1126/sciadv.adw8040
+    Journal: Science Advances
 #    code: https://github.com/MrGiovanni/ContinualLearning
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/Radial-C.png
@@ -14,7 +15,7 @@ main:
   - title: "Footprint-C reveals transcription factor modes in local clusters and long-range chromatin interactions"
     authors: <strong>Xiaokun Liu</strong>#, Hanhan Wei#, Qifan Zhang, Na Zhang, Qingqing Wu & Chenhuan Xu* (#Co-first authors *Corresponding author)
     #conference_short : CVPR
-    Journal: Nature Communications 
+    Journal: Nature Communications
     pdf: https://www.nature.com/articles/s41467-024-55403-7.pdf
     code: https://github.com/xiaokunliu01/Footprint-C
     #page: https://www.nature.com/articles/s41467-024-55403-7
