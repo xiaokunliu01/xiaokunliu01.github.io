@@ -12,9 +12,9 @@ main:
 
   - title: "Footprint-C reveals transcription factor modes in local clusters and long-range chromatin interactions"
     authors: <strong>Xiaokun Liu</strong>, Hanhan Wei, Qifan Zhang, Na Zhang, Qingqing Wu & Chenhuan Xu* (*Corresponding authors)
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    conference_short : CVPR
+    Journal: Nature Communications IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    pdf: https://www.nature.com/articles/s41467-024-55403-7.pdf
     code: https://github.com/xiaokunliu01/Footprint-C
     page: https://www.nature.com/articles/s41467-024-55403-7
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
