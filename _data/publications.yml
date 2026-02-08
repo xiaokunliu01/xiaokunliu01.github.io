@@ -8,7 +8,7 @@ main:
     Journal: Science Advances
     code: https://github.com/weihh01/Radial-C
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/Radial-C.png
+    image: ./assets/img/Radial-C.jpg
 #    notes: Early Accept
 
   - title: "Footprint-C reveals transcription factor modes in local clusters and long-range chromatin interactions"
